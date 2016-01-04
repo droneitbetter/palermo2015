@@ -699,3 +699,12 @@ ul.share-buttons li{
 #facts a:active {
     color: white;
 }
+
+#programma p {
+  margin: 0px;
+  padding: 0px;
+}
+
+#programma  {
+  padding: 0px;
+}
