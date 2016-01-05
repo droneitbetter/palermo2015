@@ -711,3 +711,7 @@ ul.share-buttons li{
 #schedule  {
   padding: 60px 0px 0px 0px;
 }
+
+.schedule-box h3 {
+  font-size: 22px;
+}
