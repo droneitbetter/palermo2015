@@ -215,6 +215,15 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3542"
+       width="555"
+       height="169.99998"
+       x="-397.71524"
+       y="750.82568"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="75.48719"
        x="-688.30353"
@@ -719,7 +728,9 @@ x/hzQEtf8Omgj7knvt6Dtn95df7h+VAke8fWgftfe/AUAB96PQ0BnMT8f0oAIJPEW5JOD+VA6Ukd
 "
        preserveAspectRatio="none"
        height="111"
-       width="111" />
+       width="111"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="750.82568"
        x="-286.71524"
@@ -5959,7 +5970,9 @@ L1a3LRsO22BBLfmHigupcC2UYub1oiVIzj4rO11lzrbN7095vBTKjBI+aZYFv0bVGxckaXUuPbMf
 "
        preserveAspectRatio="none"
        height="111"
-       width="111" />
+       width="111"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="750.82568"
        x="-175.71523"
@@ -6064,7 +6077,9 @@ FJJBRe47u0kkkH//2Q==
 "
        preserveAspectRatio="none"
        height="111"
-       width="111" />
+       width="111"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="750.82568"
        x="-64.715225"
@@ -6783,7 +6798,9 @@ srd80FTSpUAGtlCRQzSpUECityBUdm3/AG3I9jSpUD72j1KD8sUqVKg//9k=
 "
        preserveAspectRatio="none"
        height="111"
-       width="111" />
+       width="111"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <image
        y="750.82568"
        x="46.284771"
@@ -7673,6 +7690,8 @@ VBA6YxwMV1dXUH//2Q==
 "
        preserveAspectRatio="none"
        height="111"
-       width="111" />
+       width="111"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
   </g>
 </svg>
