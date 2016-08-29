@@ -604,7 +604,7 @@ ul li {
   min-height: 100vh;
   position: relative;
   text-align: center;
-  background: url(../images/backgrounds/ciuffelli.jpg) no-repeat center center/cover;
+  background: url(../images/backgrounds/todi.jpg) no-repeat center center/cover;
 }
 .site-header-todi::before {
   content: "";
@@ -648,7 +648,54 @@ ul li {
  position:absolute; 
  left:10px; 
  bottom:10px;
-  }  
+  } 
+
+
+.col-xs-2{
+    background:#00f;
+    color:#FFF;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+
+.partner .partner-box-24 {
+  background: url(../images/partner/todi/regione-umbria.png) no-repeat center center/contain;
+}
+.partner .partner-box-25 {
+  background: url(../images/partner/todi/logo-todi.png) no-repeat center center/contain;
+}
+.partner .partner-box-26 {
+  background: url(../images/partner/todi/Logo_ENAC.png) no-repeat center center/contain;
+}
+.partner .partner-box-27 {
+  background: url(../images/partner/todi/logo-federvarie-centrato.png) no-repeat center center/contain;
+}
+.partner .partner-box-28 {
+  background: url(../images/partner/todi/4_UniPg.png) no-repeat center center/contain;
+}
+.partner .partner-box-29 {
+  background: url(../images/partner/todi/OrdIng_PG_large_trasp.png) no-repeat center center/contain;
+}
+.partner .partner-box-30 {
+  background: url(../images/partner/todi/Agronomi.png) no-repeat center center/contain;
+}
+.partner .partner-box-31 {
+  background: url(../images/partner/todi/ODAF-TR-marchio-biglietto.png) no-repeat center center/contain;
+}
+.partner .partner-box-32 {
+  background: url(../images/partner/todi/GiornalistiUmbria.png) no-repeat center center/contain;
+}
+.partner .partner-box-33 {
+  background: url(../images/partner/todi/logo-periti-agrari-pg-tr.png) no-repeat center center/contain;
+}
+.partner .partner-box-34 {
+  background: url(../images/partner/todi/Geometri.png) no-repeat center center/contain;
+}
+.partner .partner-box-35 {
+  background: url(../images/partner/todi/logo-federvarie.png) no-repeat center center/contain;
+}
+
 /*Todi*/
 
 /* 
@@ -868,3 +915,4 @@ font-weight: 100 !important;
   font-size: 22px;
   padding: 0px 10px;
 }
+
