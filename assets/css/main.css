@@ -466,6 +466,21 @@ ul li {
   -webkit-transition: 0.5s all linear;
           transition: 0.5s all linear;
 }
+
+.partner-box-300dpi {
+  display: block;
+  opacity: 0.3;
+  height: 300px;
+  width: 300px;
+  margin: 25px auto;
+  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;
+}
+.partner-box-300dpi:hover {
+  opacity: 1;
+}
+
+
 .partner .partner-box:hover {
   opacity: 1;
 }
@@ -711,6 +726,18 @@ ul li {
 .partner .partner-box-40 {
   background: url(../images/partner/todi/logo-federvarie-QUADRATO.png) no-repeat center center/contain;
 }
+.partner .partner-box-41 {
+  background: url(../images/todi/Droinwork-LogoPNG300.png) no-repeat center center/contain;
+}
+.partner .partner-box-42 {
+  background: url(../images/todi/logo-panoptes_motto.png) no-repeat center center/contain;
+}
+.partner .partner-box-43 {
+  background: url(../images/todi/LogoTramdev300.png) no-repeat center center/contain;
+}
+
+
+
 .inside {
   margin-top: 20px;
   margin-bottom: 20px;
