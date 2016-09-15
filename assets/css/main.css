@@ -467,7 +467,7 @@ ul li {
           transition: 0.5s all linear;
 }
 
-.partner-box-300px {
+.partner .partner-box-300px {
   display: block;
   opacity: 0.3;
   height: 300px;
@@ -476,7 +476,7 @@ ul li {
   -webkit-transition: 0.5s all linear;
           transition: 0.5s all linear;
 }
-.partner-box-300dpi:hover {
+.partner .partner-box-300px:hover {
   opacity: 1;
 }
 
