@@ -467,7 +467,7 @@ ul li {
           transition: 0.5s all linear;
 }
 
-.partner-box-300dpi {
+.partner-box-300px {
   display: block;
   opacity: 0.3;
   height: 300px;
@@ -735,7 +735,9 @@ ul li {
 .partner .partner-box-43 {
   background: url(../images/todi/LogoTramdev300.png) no-repeat center center/contain;
 }
-
+.partner .partner-box-44 {
+  background: url(../images/todi/Italdron_LOGO-300x300.jpg) no-repeat center center/contain;
+}
 
 
 .inside {
