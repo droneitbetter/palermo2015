@@ -881,6 +881,126 @@ ul li {
 
 /*Todi*/
 
+/* Pescara */
+
+.site-header-pescara {
+  width: 100%;
+  height: 100%;
+  min-height: 100vh;
+  position: relative;
+  text-align: center;
+  background: url(../images/backgrounds/pescara.jpg) no-repeat center center/cover;
+}
+.site-header-pescara::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0);
+}
+.site-header-pescara .intro {
+  color: #fff;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+  z-index: 1;
+  padding: 0 15px;
+  top: 124px;
+}
+.site-header-pescara .intro h2 {
+  margin-top: 0px;
+  font-size: 25px;
+  font-weight: 300;
+}
+.site-header-pescara .intro h1 {
+  margin-top: 0px;
+  font-size: 30px;
+}
+.site-header-pescara .intro p {
+  font-size: 20px;
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+.site-header-pescara #assorpas{
+ position:absolute; 
+ right:10px; 
+ bottom:10px;
+  }
+.site-header-pescara #sharebuttons{
+ position:absolute; 
+ left:10px; 
+ bottom:10px;
+  } 
+
+
+.col-xs-2{
+    background:#00f;
+    color:#FFF;
+}
+.col-half-offset{
+    margin-left:4.166666667%
+}
+
+.partner-pescara {
+  background-color: #f8f8f8;
+}
+.partner-pescara .partner-box {
+  display: block;
+  opacity: 0.3;
+  height: 150px;
+  width: 150px;
+  margin: 25px auto;
+  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;
+}
+
+.partner-pescara .partner-box-300px {
+  display: block;
+  opacity: 0.3;
+  height: 300px;
+  width: 300px;
+  margin: 25px auto;
+  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;
+}
+.partner-pescara .partner-box-300px:hover {
+  opacity: 1;
+}
+
+.partner-pescara .partner-box:hover {
+  opacity: 1;
+}
+
+.partner-pescara .partner-box-01 {
+  background: url(../images/partner/pescara/01_logo_comune_pescara.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-02 {
+  background: url(../images/partner/pescara/02_logobitmap_Regione.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-03 {
+  background: url(../images/partner/pescara/03_LOGO_1vETT_PATROCINI_Provincia.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-04 {
+  background: url(../images/partner/pescara/04_Logo_ENAC.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-05 {
+  background: url(../images/partner/pescara/05_ordine_giornalisti.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-06 {
+  background: url(../images/partner/pescara/06_logo_Ordine_ing_pescara.png) no-repeat center center/contain;
+}
+.partner-pescara .partner-box-07 {
+  background: url(../images/partner/pescara/07_collegio_geometri.png) no-repeat center center/contain;
+}
+
+
+
+/* Pescara */
+
 /* 
  * 6.8 Section: FAQ
  */
