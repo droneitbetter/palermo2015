@@ -1302,4 +1302,78 @@ font-weight: 100 !important;
  bottom:10px;
   } 
 
+.partner-roma {
+  background-color: #f8f8f8;
+}
+.partner-roma .partner-box {
+  display: block;
+  opacity: 0.3;
+  height: 150px;
+  width: 150px;
+  margin: 25px auto;
+  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;
+}
+
+.partner-roma .partner-box-300px {
+  display: block;
+  opacity: 0.3;
+  height: 300px;
+  width: 300px;
+  margin: 25px auto;
+  -webkit-transition: 0.5s all linear;
+          transition: 0.5s all linear;
+}
+.partner-roma .partner-box-300px:hover {
+  opacity: 1;
+}
+
+.partner-roma .partner-box:hover {
+  opacity: 1;
+}
+
+.partner-roma .partner-box-01 {
+  background: url(../images/partner/roma/patrocinio-logo-Enac-300px.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-02 {
+  background: url(../images/partner/roma/logo_Assaeroporti-300px.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-03 {
+  background: url(../images/partner/roma/03_LOGO_1vETT_PATROCINI_Provincia.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-04 {
+  background: url(../images/partner/roma/04_Logo_ENAC.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-05 {
+  background: url(../images/partner/roma/05_ordine_giornalisti.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-06 {
+  background: url(../images/partner/roma/06_logo_Ordine_ing_pescara.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-07 {
+  background: url(../images/partner/roma/07_collegio_geometri.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-08 {
+  background: url(../images/partner/roma/08_logo-federvarie-QUADRATO.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-09 {
+  background: url(../images/partner/roma/09_logo-federazione-agronomi.png) no-repeat center center/contain;
+}
+
+.partner-roma .partner-box-20 {
+  background: url(../images/supporto/roma/FLYVALUE-LOGO-300px.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-21 {
+  background: url(../images/supporto/roma/Logo-Italdron-Academy-300px.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-22 {
+  background: url(../images/supporto/roma/300px-D.A_3DTARGET-Logo1.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-23 {
+  background: url(../images/supporto/roma/300px-Leica_Geosystems.svg.png) no-repeat center center/contain;
+}
+.partner-roma .partner-box-24 {
+  background: url(../images/supporto/roma/300px-RESGEA_Logo_Esteso.jpg) no-repeat center center/contain;
+}
+
 /*Roma*/
